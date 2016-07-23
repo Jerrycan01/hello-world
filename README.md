@@ -7,4 +7,3 @@ This is gonna get interesting =)
 
 t('^'t) 
 
-Just practicing
